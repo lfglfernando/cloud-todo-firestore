@@ -1,5 +1,12 @@
 # Cloud To-Do (Python + Firebase/Firestore)
 
+# Copy the link to your video here: 
+https://www.loom.com/share/239c46c7487e4495bbe4914fbed81017
+
+# GitHub Project:
+https://github.com/lfglfernando/cloud-todo-firestore
+
+## Overview
 A simple CLI app to demonstrate a **cloud database** with full **CRUD** in Firestore using Python.
 
 ## Goals
